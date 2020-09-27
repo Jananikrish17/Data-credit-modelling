@@ -4,4 +4,4 @@ Aim of this project to focus on credit modelling that focuses on modeling a borr
 This dataset contains loans data from 2007-2011 and i downloaded from [DataQuest](https://www.dataquest.io/)
 
 ##### Approach :
-We are looking at the problem from the conservative investor's standpoint. More interested in a low False Positive Rate(FPR) than a high True Positive Rate(TPR)
+We are looking at the problem from the conservative investor's standpoint. More interested in a low False Positive Rate(FPR) than a high True Positive Rate(TPR).
